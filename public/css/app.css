@@ -1,0 +1,66 @@
+body {
+  width: 100%;
+  border-style: none;
+  overflow-x: hidden;
+}
+
+.card {
+}
+
+.card.card-overlay {
+  width: 100%;
+  height: 100vh;
+}
+
+.card-img {
+}
+
+.card-img.card-image-overlay {
+  width: 100%;
+  height: 31vh;
+}
+
+.overlay-img {
+  background: url("./img/meeting.jpg") center / cover no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+.card-img-overlay.overlay-color {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(0deg, rgba(111,66,193,0.91) 0%, rgba(111,66,193,0.91) 99%);
+}
+
+@media (min-width: 768px) {
+  .overlay-header {
+    color: rgb(243,246,248);
+    text-align: center;
+    padding: 21px;
+    margin: 0px;
+  }
+}
+
+#carousel-1 {
+  width: 100%;
+}
+
+.carousel-inner.carousel-log {
+  width: 100%;
+}
+
+.container.marge {
+  margin-top: 14px;
+}
+
+.headc {
+  color: var(--white);
+  text-align: center;
+}
+
+.heal {
+  text-align: center;
+  color: var(--light);
+  padding: 5px;
+}
+
