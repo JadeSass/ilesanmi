@@ -40,8 +40,8 @@
         </div>
         <div class="container">
             <h4 style="text-align: center;color: var(--white);margin-right: 0px;margin-top: 0px;">Please provide your name &amp; your valid email address.&nbsp;<br></h4>
-            <div style="padding-top: 0px;margin-top: 5px;"><input class="form-control-sm" type="text" style="width: 100%;padding-top: 0px;margin-top: 0px;margin-bottom: 0px;border-radius: 4px;border-width: 0px;padding-bottom: 4px;" name="name" placeholder="Please enter your name"></div>
-            <div style="padding-top: 0px;margin-top: 13px;"><input class="form-control-sm" type="text" style="width: 100%;padding-top: 0px;margin-top: 0px;margin-bottom: -3px;border-radius: 4px;border-width: 0px;" placeholder="Please enter your email" name="email"><a class="btn btn-success btn-block btn-lg" role="button" style="margin-top: 19px;margin-bottom: 61px;">GIVE ME MY FREE BOOK</a></div>
+            <div style="padding-top: 0px;margin-top: 5px;"><input class="form-control-lg" type="text" style="width: 100%;padding-top: 0px;margin-top: 0px;margin-bottom: 0px;border-radius: 4px;border-width: 0px;padding-bottom: 4px;" name="name" placeholder="Please enter your name"></div>
+            <div style="padding-top: 0px;margin-top: 13px;"><input class="form-control-lg" type="text" style="width: 100%;padding-top: 0px;margin-top: 0px;margin-bottom: -3px;border-radius: 4px;border-width: 0px;" placeholder="Please enter your email" name="email"><a class="btn btn-success btn-block btn-lg" role="button" style="margin-top: 19px;margin-bottom: 61px;">GIVE ME MY FREE BOOK</a></div>
         </div>
     </div>
     <script src="{{asset('js/jquery.min.js')}}"></script>
